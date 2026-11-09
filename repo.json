@@ -163,5 +163,29 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/FriendRadar.zip",
     "LastUpdate": 1794239280,
     "DownloadCount": 0
+  },
+  {
+    "Author": "D. Luuuffy",
+    "Name": "Grundstücke",
+    "Punchline": "Freie Grundstücke, Lotterie-Ziehung und Bewerber auf einen Blick – mit „Hingehen“ per Lifestream.",
+    "Description": "Deine Startseite für Wohngebiete in FFXIV:\n• Lotterie: Phase, Countdown bis zur Ziehung und Zeitleiste der Runde\n• Alle freien Grundstücke deiner Welt oder deines ganzen Rechenzentrums – mit Größe, Preis, Bewerbern und Gewinnchance\n• Wohngebiete als Karten, beste Chancen zuerst, einfache Filter\n• Hingehen: Lifestream reist direkt zum Grundstück (auch auf andere Welten)\n• Deine Bewerbung wird am Schild automatisch erkannt und oben als 3D-Karte gezeigt – mit Anflug wie bei Google Earth\n• Karten genau wie im Spiel: Grundstücke mit Mauern und Tor, Beliebtheit als Heatmap\n• Merkliste, Hinweise und Anzeige in der Serverinfo-Leiste\n\n/grundstuecke oder /haus öffnet das Fenster.\n\nDaten: PaissaDB (gesammelt mit dem Plugin PaissaHouse). Für „Hingehen“: Lifestream.",
+    "Tags": [
+      "housing",
+      "lottery",
+      "plots",
+      "paissa",
+      "lifestream"
+    ],
+    "InternalName": "HousingBoard",
+    "AssemblyVersion": "1.5.2.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "RepoUrl": "https://github.com/Dluuufffey/EorzeaCore",
+    "AcceptsFeedback": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/HousingBoard.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/HousingBoard.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/HousingBoard.zip",
+    "LastUpdate": 1794240508,
+    "DownloadCount": 0
   }
 ]
