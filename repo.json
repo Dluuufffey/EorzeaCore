@@ -174,7 +174,7 @@
     "Author": "D. Luuuffy",
     "Name": "EorzeaCore - Housing Tracker",
     "Punchline": "Freie Grundstücke, Lotterie-Ziehung und Bewerber auf einen Blick - mit „Hingehen“ per Lifestream.",
-    "Description": "Deine Startseite für Wohngebiete in FFXIV:\n• Lotterie: Phase, Countdown bis zur Ziehung und Zeitleiste der Runde\n• Alle freien Grundstücke deiner Welt oder deines ganzen Rechenzentrums - mit Größe, Preis, Bewerbern und Gewinnchance\n• Wohngebiete als Karten, beste Chancen zuerst, einfache Filter\n• Hingehen: Lifestream reist direkt zum Grundstück (auch auf andere Welten)\n• Deine Bewerbung wird am Schild automatisch erkannt und oben als 3D-Karte gezeigt - mit Anflug wie bei Google Earth\n• Karten genau wie im Spiel: Grundstücke mit Mauern und Tor, Beliebtheit als Heatmap\n• Merkliste, Hinweise und Anzeige in der Serverinfo-Leiste\n\n/grundstuecke oder /haus öffnet das Fenster.\n\nDaten: PaissaDB (gesammelt mit dem Plugin PaissaHouse). Für „Hingehen“: Lifestream.",
+    "Description": "Deine Startseite für Wohngebiete in FFXIV:\n• Lotterie: Phase, Countdown bis zur Ziehung und Zeitleiste der Runde\n• Alle freien Grundstücke einer Welt oder eines ganzen Rechenzentrums, auch der anderen in deiner Region (z. B. Chaos und Light) - mit Größe, Preis, Bewerbern und Gewinnchance\n• Wohngebiete als Karten, beste Chancen zuerst, einfache Filter\n• Hingehen: Lifestream reist direkt zum Grundstück (auch auf andere Welten)\n• Deine Bewerbung wird am Schild automatisch erkannt und oben als 3D-Karte gezeigt - mit Anflug wie bei Google Earth\n• Karten genau wie im Spiel: Grundstücke mit Mauern und Tor, Beliebtheit als Heatmap\n• Merkliste, Hinweise und Anzeige in der Serverinfo-Leiste\n\n/grundstuecke oder /haus öffnet das Fenster.\n\nDaten: PaissaDB (gesammelt mit dem Plugin PaissaHouse). Für „Hingehen“: Lifestream.",
     "Tags": [
       "housing",
       "lottery",
@@ -183,7 +183,7 @@
       "lifestream"
     ],
     "InternalName": "HousingBoard",
-    "AssemblyVersion": "1.5.3.0",
+    "AssemblyVersion": "1.6.0.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/icons/HousingBoard.png",
@@ -192,7 +192,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/HousingBoard.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/HousingBoard.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/HousingBoard.zip",
-    "LastUpdate": 1794247233,
+    "LastUpdate": 1794253592,
     "DownloadCount": 0
   }
 ]

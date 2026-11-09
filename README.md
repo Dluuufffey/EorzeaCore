@@ -26,4 +26,4 @@ Updates kommen danach automatisch beim Einloggen (oder über „Aktualisieren“
 | <img src="icons/DailyGoals.png" width="72"> | **EorzeaCore - Goals** `1.7.2`<br>Raids, Dungeons, Quests und Stämme im Blick |
 | <img src="icons/RetainerAutoPricer.png" width="72"> | **EorzeaCore - RetainerAutoPricer** `1.9.2`<br>Automatische Preise für deine Gehilfen |
 | <img src="icons/FriendRadar.png" width="72"> | **EorzeaCore - Friends** `1.6.3`<br>Deine Freundesliste in schön - Freunde leuchten auf der Minimap und Favoriten bekommen beim Einloggen einen großen Auftritt. |
-| <img src="icons/HousingBoard.png" width="72"> | **EorzeaCore - Housing Tracker** `1.5.3`<br>Freie Grundstücke, Lotterie-Ziehung und Bewerber auf einen Blick - mit „Hingehen“ per Lifestream. |
+| <img src="icons/HousingBoard.png" width="72"> | **EorzeaCore - Housing Tracker** `1.6.0`<br>Freie Grundstücke, Lotterie-Ziehung und Bewerber auf einen Blick - mit „Hingehen“ per Lifestream. |
