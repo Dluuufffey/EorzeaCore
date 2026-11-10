@@ -187,7 +187,7 @@
       "twitch"
     ],
     "InternalName": "HousingBoard",
-    "AssemblyVersion": "1.7.3.0",
+    "AssemblyVersion": "1.7.4.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/icons/HousingBoard.png",
@@ -196,7 +196,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/HousingBoard.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/HousingBoard.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/HousingBoard.zip",
-    "LastUpdate": 1794324090,
+    "LastUpdate": 1794327433,
     "DownloadCount": 0
   },
   {
