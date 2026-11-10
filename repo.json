@@ -198,5 +198,32 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/HousingBoard.zip",
     "LastUpdate": 1794279687,
     "DownloadCount": 0
+  },
+  {
+    "Author": "D. Luuuffy",
+    "Name": "EorzeaCore - Stream",
+    "Punchline": "Watch videos together on a screen in the game world - YouTube, Twitch, any page or your own files. / Videos gemeinsam auf einem Bildschirm in der Spielwelt schauen - YouTube, Twitch, jede Seite oder eigene Dateien.",
+    "Description": "Watch videos together in the game world:\n• A screen you can put up anywhere - in front of you, on a wall, in the garden. Size, rotation, tilt and height are adjustable, move it with the mouse\n• In a house, apartment or room the screen remembers its spot and is there again next time\n• YouTube, Twitch, Vimeo, Dailymotion, TikTok, Kick, Streamable and any other page with a video - the video is found on the page and shown full size\n• Your own videos from your PC: after asking, the file is uploaded for a limited time for your party, so they don't need it themselves\n• Watch together in your party: every party member with the plugin sees the same video at the same moment and the screen in the same spot - nobody else sees anything. Whoever presses play, pause or seek controls it for everyone. It only ends when you leave the party\n• Sound gets quieter the further away you are, walls hide the screen, controls appear when you hover it with the mouse\n\n/stream opens the window, /stream <link> plays right away, /stream here puts the screen in front of you.\nLanguage: English or German (settings or /stream english).\n\nNeeds Microsoft Edge (comes with Windows) or Google Chrome.\n\nDeutsch:\nVideos gemeinsam in der Spielwelt schauen:\n• Ein Bildschirm, den du überall aufstellen kannst - vor dir, an der Wand, im Garten. Größe, Drehung, Neigung und Höhe frei einstellbar, verschieben mit der Maus\n• Im Haus, in der Wohnung oder im Zimmer merkt sich der Bildschirm seinen Platz und steht beim nächsten Besuch wieder da\n• YouTube, Twitch, Vimeo, Dailymotion, TikTok, Kick, Streamable und jede andere Seite mit Video - das Video wird auf der Seite gefunden und bildfüllend gezeigt\n• Eigene Videos vom PC: für deine Gruppe wird die Datei nach Rückfrage zeitlich begrenzt hochgeladen, sie braucht sie also nicht selbst\n• Gemeinsam schauen in der Gruppe: alle Gruppenmitglieder mit dem Plugin sehen dasselbe Video an derselben Stelle und den Bildschirm am selben Platz - andere sehen nichts. Wer Play, Pause oder Springen drückt, steuert für alle. Es endet erst, wenn du die Gruppe verlässt\n• Ton wird leiser, je weiter du weg bist, Wände verdecken den Bildschirm, Bedienleiste beim Drüberfahren mit der Maus\n\n/stream öffnet das Fenster, /stream <Link> spielt direkt ab, /stream hier stellt den Bildschirm vor dir auf.\nSprache: Deutsch oder Englisch (Einstellungen oder /stream englisch).\n\nBraucht Microsoft Edge (ist bei Windows dabei) oder Google Chrome.",
+    "Tags": [
+      "video",
+      "youtube",
+      "twitch",
+      "stream",
+      "party",
+      "watch together",
+      "cinema"
+    ],
+    "InternalName": "EorzeaStream",
+    "AssemblyVersion": "1.0.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "IconUrl": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/icons/EorzeaStream.png",
+    "RepoUrl": "https://github.com/Dluuufffey/EorzeaCore",
+    "AcceptsFeedback": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/EorzeaStream.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/EorzeaStream.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/EorzeaStream.zip",
+    "LastUpdate": 1794286694,
+    "DownloadCount": 0
   }
 ]
