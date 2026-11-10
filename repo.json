@@ -214,7 +214,7 @@
       "cinema"
     ],
     "InternalName": "EorzeaStream",
-    "AssemblyVersion": "1.0.4.0",
+    "AssemblyVersion": "1.0.5.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/icons/EorzeaStream.png",
@@ -223,7 +223,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/EorzeaStream.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/EorzeaStream.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/EorzeaStream.zip",
-    "LastUpdate": 1794338794,
+    "LastUpdate": 1794339663,
     "DownloadCount": 0
   }
 ]
