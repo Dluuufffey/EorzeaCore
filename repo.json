@@ -115,7 +115,7 @@
   },
   {
     "Author": "D. Luuuffy",
-    "Name": "EorzeaCore - RetainerAutoPricer",
+    "Name": "EorzeaCore - Auto Retainer",
     "Punchline": "Retainer prices automatically set to the cheapest offer, sell junk, desynthesize old gear, inventory by category. / Gehilfen-Preise automatisch aufs günstigste Angebot, Ramsch verkaufen, alte Ausrüstung verwerten, Inventar nach Kategorien.",
     "Description": "• At the summoning bell: all items of your retainers are automatically set just below the cheapest market board offer.\n• At vendors: everything worth less on the market board than your value limit is sold automatically (prices from Universalis, like Price Insight).\n• Inventory overview by category (weapons, armor, crafting materials …) with market value, plus sorting by category.\n• At the summoning bell: sell junk to NPCs through your retainer and sort the retainer inventory automatically when calling them.\n• Inventory overview: right-click → use, open, equip (put on gear directly from the overview).\n• Market board shopping: buys minions, mounts, emotes, orchestrion rolls, cards … you are missing - up to your maximum price per kind.\n• Learn & open: learns everything new (minions, mounts, emotes …) and opens coffers, chests, bags and card packs automatically - never Fantasia, exceptions with a right-click.\n• Inventory overview: search items and use the “Desynth” button to automatically break down old gear up to your item level.\n• Hold Shift while opening = don't start automatically this time · /autopreis opens the settings\nLanguage: English or German (settings or /autopreis english).\n\nDeutsch:\n• An der Klingel: alle Items deiner Gehilfen werden automatisch knapp unter das günstigste Marktboard-Angebot gesetzt.\n• Beim Händler: alles, was am Marktbrett weniger als deine Wertgrenze wert ist, wird automatisch verkauft (Preise von Universalis, wie Price Insight).\n• Inventar-Übersicht nach Kategorien (Waffen, Rüstung, Crafting-Materialien …) mit Marktwert, plus Sortieren nach Kategorie.\n• An der Klingel: Ramsch über den Gehilfen an NPCs verkaufen und das Gehilfen-Inventar beim Rufen automatisch sortieren.\n• Inventar-Übersicht: Rechtsklick → Benutzen, Öffnen, Anlegen (Ausrüstung direkt aus der Übersicht anziehen).\n• Marktbrett-Einkauf: kauft Begleiter, Reittiere, Emotes, Notenrollen, Karten … die dir fehlen - bis zu deinem Höchstpreis je Art.\n• Lernen & Öffnen: lernt alles Neue (Begleiter, Reittiere, Emotes …) und öffnet Kisten, Truhen, Beutel und Kartenpakete automatisch - Fantasia nie, Ausnahmen per Rechtsklick.\n• Inventar-Übersicht: Items suchen und per Knopf „Verwerten“ alte Ausrüstung bis zu deiner Gegenstandsstufe automatisch zerlegen.\n• Shift beim Öffnen halten = diesmal nicht automatisch starten · /autopreis öffnet die Einstellungen\nSprache: Deutsch oder Englisch (Einstellungen oder /autopreis englisch).",
     "Tags": [
@@ -129,7 +129,7 @@
       "desynth"
     ],
     "InternalName": "RetainerAutoPricer",
-    "AssemblyVersion": "1.9.3.0",
+    "AssemblyVersion": "1.9.4.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/icons/RetainerAutoPricer.png",
@@ -138,7 +138,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/RetainerAutoPricer.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/RetainerAutoPricer.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/RetainerAutoPricer.zip",
-    "LastUpdate": 1794279687,
+    "LastUpdate": 1794282742,
     "DownloadCount": 0
   },
   {
