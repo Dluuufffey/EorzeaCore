@@ -36,7 +36,7 @@ Updates kommen danach automatisch beim Einloggen (oder über „Aktualisieren“
 <td width="80" align="center"><img src="icons/FriendRadar.png" width="72" alt="EorzeaCore - Friends"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Friends</b>&nbsp;<code>1.6.4</code><br>Deine Freundesliste in schön - Freunde leuchten auf der Minimap</td>
 </tr>
 <tr>
-<td width="80" align="center"><img src="icons/HousingBoard.png" width="72" alt="EorzeaCore - Housing Tracker"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Housing&nbsp;Tracker</b>&nbsp;<code>1.7.2</code><br>Freie Grundstücke, Lotterie und Clubs mit Live-DJs</td>
+<td width="80" align="center"><img src="icons/HousingBoard.png" width="72" alt="EorzeaCore - Housing Tracker"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Housing&nbsp;Tracker</b>&nbsp;<code>1.7.3</code><br>Freie Grundstücke, Lotterie und Clubs mit Live-DJs</td>
 <td width="80" align="center"><img src="icons/EorzeaStream.png" width="72" alt="EorzeaCore - Stream"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Stream</b>&nbsp;<code>1.0.0</code><br>Videos gemeinsam auf einem Bildschirm in der Spielwelt schauen</td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ Updates then arrive automatically when you log in (or via “Update” in the pl
 <td width="80" align="center"><img src="icons/FriendRadar.png" width="72" alt="EorzeaCore - Friends"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Friends</b>&nbsp;<code>1.6.4</code><br>Your friend list, but beautiful - friends glow on the minimap</td>
 </tr>
 <tr>
-<td width="80" align="center"><img src="icons/HousingBoard.png" width="72" alt="EorzeaCore - Housing Tracker"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Housing&nbsp;Tracker</b>&nbsp;<code>1.7.2</code><br>Free plots, lottery and clubs with live DJs</td>
+<td width="80" align="center"><img src="icons/HousingBoard.png" width="72" alt="EorzeaCore - Housing Tracker"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Housing&nbsp;Tracker</b>&nbsp;<code>1.7.3</code><br>Free plots, lottery and clubs with live DJs</td>
 <td width="80" align="center"><img src="icons/EorzeaStream.png" width="72" alt="EorzeaCore - Stream"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Stream</b>&nbsp;<code>1.0.0</code><br>Watch videos together on a screen in the game world</td>
 </tr>
 </table>
