@@ -3,9 +3,9 @@
     "Author": "D. Luuuffy",
     "Name": "EorzeaCore - Aggro Radar",
     "InternalName": "AggroRadar",
-    "AssemblyVersion": "1.2.9.0",
-    "Punchline": "Immersives Tank-Plugin: Aggro-Alarm, Lavabalken für Boss und Gegner, Effekte, Zauberleiste mit Unterbrechen-Hinweis, Gefahrenzonen am Boden und deine Effekte unter dir.",
-    "Description": "Alles für einen sauberen Kampf-Bildschirm in einem Plugin:\n• Aggro: Ring, Marker, Linien und Alarm, wenn ein Gegner nicht mehr auf dir ist - plus Aggro-Liste\n• Lavabalken: Lebensbalken wie eine Lavalampe - groß für dein Ziel und über jedem Gegner, Schaden tropft als Lava heraus\n• Effekte am Gegner: deine Schwächungen (gold) und die der Gruppe mit Restzeit, Warnung vor dem Ablauf und blassen Erinnerungen; Stärkungen des Gegners rot\n• Zauberleiste am Balken: unterbrechbare Zauber leuchten rot - mit Hinweis, ob deine Unterbrechung bereit ist\n• Gefahrenzonen: Kreise, Kegel, Linien und Donuts erscheinen schon beim Zauberbeginn am Boden und füllen sich bis zum Einschlag - rot, wenn du drinstehst\n• Deine Effekte: Stärkungen und Schwächungen hängen unten an deinem Charakter\n\n/aggro öffnet die Einstellungen · /aggro test (Vorschau) · /aggro balken · /aggro position · /aggro liste · /aggro an/aus",
+    "AssemblyVersion": "1.2.10.0",
+    "Punchline": "Immersive tank plugin: aggro alarm, lava bars for boss and enemies, effects, cast bar with interrupt hint, danger zones on the ground and your effects below you. / Immersives Tank-Plugin: Aggro-Alarm, Lavabalken für Boss und Gegner, Effekte, Zauberleiste mit Unterbrechen-Hinweis, Gefahrenzonen am Boden und deine Effekte unter dir.",
+    "Description": "Everything for a clean combat screen in one plugin:\n• Aggro: ring, marker, lines and alarm when an enemy is no longer on you - plus an aggro list\n• Lava bars: health bars like a lava lamp - big for your target and above every enemy, damage drips out as lava\n• Effects on enemies: your debuffs (gold) and those of your party with time left, a warning before they run out and faded reminders; enemy buffs in red\n• Cast bar on the health bar: interruptible casts glow red - with a hint whether your interrupt is ready\n• Danger zones: circles, cones, lines and donuts appear on the ground as soon as the cast starts and fill up until they hit - red if you are standing inside\n• Your effects: buffs and debuffs hang below your character\n\n/aggro opens the settings · /aggro test (preview) · /aggro balken · /aggro position · /aggro liste · /aggro on/off\nLanguage: English or German (settings or /aggro german).\n\nDeutsch:\nAlles für einen sauberen Kampf-Bildschirm in einem Plugin:\n• Aggro: Ring, Marker, Linien und Alarm, wenn ein Gegner nicht mehr auf dir ist - plus Aggro-Liste\n• Lavabalken: Lebensbalken wie eine Lavalampe - groß für dein Ziel und über jedem Gegner, Schaden tropft als Lava heraus\n• Effekte am Gegner: deine Schwächungen (gold) und die der Gruppe mit Restzeit, Warnung vor dem Ablauf und blassen Erinnerungen; Stärkungen des Gegners rot\n• Zauberleiste am Balken: unterbrechbare Zauber leuchten rot - mit Hinweis, ob deine Unterbrechung bereit ist\n• Gefahrenzonen: Kreise, Kegel, Linien und Donuts erscheinen schon beim Zauberbeginn am Boden und füllen sich bis zum Einschlag - rot, wenn du drinstehst\n• Deine Effekte: Stärkungen und Schwächungen hängen unten an deinem Charakter\n\n/aggro öffnet die Einstellungen · /aggro test (Vorschau) · /aggro balken · /aggro position · /aggro liste · /aggro an/aus\nSprache: Deutsch oder Englisch (Einstellungen oder /aggro englisch).",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "Tags": [
@@ -29,14 +29,14 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/AggroRadar.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/AggroRadar.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/AggroRadar.zip",
-    "LastUpdate": 1794247232,
+    "LastUpdate": 1794279686,
     "DownloadCount": 0
   },
   {
     "Author": "D. Luuuffy",
     "Name": "EorzeaCore - Chat",
-    "Punchline": "Ersetzt den Spiel-Chat: Chat-Badges fest am linken Rand, Messenger zoomt per Klick auf - wie ein Mac-Dock.",
-    "Description": "Ersetzt das Chatfenster von FFXIV komplett (wie Chat 2):\n• Fest am linken Bildschirmrand eine Leiste mit Badges: Gruppe, Freie Gesellschaft, Allianz, Sagen, Linkshells, Weltenübergreifende Linkshells, Flüstern (pro Person) und System\n• Ein Klick lässt den Messenger ruhig aus der Badge heraus aufzoomen; Enter, „/“ und Antworten öffnen direkt dein Eingabefeld\n• Pro Chat eigene Badge- und Schriftfarbe, Chats an- und abwählbar (z. B. System)\n• Eigene Sprechblasen über den Köpfen von Spielern im Stil des Chats (Größe einstellbar)\n• Beim Start eines Dungeons, einer Prüfung oder eines Raids geht der Gruppen-Chat kurz auf (einstellbar)\n• Automatische Nachrichten: beim Start eines Inhalts grüßen, nach dem Abschluss verabschieden\n• Gesichter der Charaktere neben den Nachrichten und beim Flüstern (Porträt von der Lodestone)\n• Smileys, Emotes & GIFs: gehen als ganz normaler Text raus - Smiley („:D“, „<3“, „o/“), Aktion („*Winken*“) bzw. Giphy-Link. Mit Plugin sieht man Sticker und Animation, ohne Plugin ganz normalen Text\n• Videos wie bei WhatsApp: Links zu YouTube, TikTok, Twitch, Vimeo, Spotify, SoundCloud und Streamable als Karte mit Bild und Titel - ein Klick spielt sie im Mini-Player direkt neben dem Chat ab (immer über dem Spiel, einstellbar)\n• Bleibt auch in Zwischensequenzen und Ladebildschirmen sichtbar, du kannst weiterschreiben\n• Rechtsklick auf Spieler: anflüstern, in Gruppe einladen, Abenteurerplakette, Untersuchen, Anvisieren\n• Sprechblasen-Verlauf, Ungelesen-Zähler, Vorschau, Erwähnungen, Verlauf pro Charakter, Größe einstellbar\n\n/chatfenster öffnet den Messenger, /chatfenster einstellungen die Einstellungen.\n\nEmoji-Sticker: Twemoji (CC-BY 4.0). GIFs: Powered by GIPHY.",
+    "Punchline": "Replaces the game chat: chat badges docked on the left edge, the messenger zooms open with a click - like a Mac dock. / Ersetzt den Spiel-Chat: Chat-Badges fest am linken Rand, Messenger zoomt per Klick auf - wie ein Mac-Dock.",
+    "Description": "Replaces the FFXIV chat window completely (like Chat 2):\n• A dock with badges fixed on the left edge of the screen: party, free company, alliance, say, linkshells, cross-world linkshells, tells (per person) and system\n• One click lets the messenger zoom smoothly out of the badge; Enter, “/” and replies open your input field directly\n• Own badge and font color per chat, chats can be shown or hidden (e.g. system)\n• Own speech bubbles above players' heads in the style of the chat (size adjustable)\n• When a dungeon, trial or raid starts, the party chat opens briefly (adjustable)\n• Automatic messages: greet when a duty starts, say goodbye after it is completed\n• Character faces next to the messages and in tells (portrait from the Lodestone)\n• Smileys, emotes & GIFs: sent as completely normal text - smiley (“:D”, “<3”, “o/”), action (“*wave*”) or Giphy link. With the plugin you see stickers and animation, without it normal text\n• Videos like in WhatsApp: links to YouTube, TikTok, Twitch, Vimeo, Spotify, SoundCloud and Streamable as a card with image and title - one click plays them in the mini player right next to the chat (always on top of the game, adjustable)\n• Stays visible in cutscenes and loading screens, you can keep typing\n• Right-click on players: send tell, invite to party, adventurer plate, examine, target\n• Speech bubble history, unread counter, preview, mentions, history per character, size adjustable\n\n/chatfenster opens the messenger, /chatfenster settings the settings.\nLanguage: English or German (settings or /chatfenster german).\n\nEmoji stickers: Twemoji (CC-BY 4.0). GIFs: Powered by GIPHY.\n\nDeutsch:\nErsetzt das Chatfenster von FFXIV komplett (wie Chat 2):\n• Fest am linken Bildschirmrand eine Leiste mit Badges: Gruppe, Freie Gesellschaft, Allianz, Sagen, Linkshells, Weltenübergreifende Linkshells, Flüstern (pro Person) und System\n• Ein Klick lässt den Messenger ruhig aus der Badge heraus aufzoomen; Enter, „/“ und Antworten öffnen direkt dein Eingabefeld\n• Pro Chat eigene Badge- und Schriftfarbe, Chats an- und abwählbar (z. B. System)\n• Eigene Sprechblasen über den Köpfen von Spielern im Stil des Chats (Größe einstellbar)\n• Beim Start eines Dungeons, einer Prüfung oder eines Raids geht der Gruppen-Chat kurz auf (einstellbar)\n• Automatische Nachrichten: beim Start eines Inhalts grüßen, nach dem Abschluss verabschieden\n• Gesichter der Charaktere neben den Nachrichten und beim Flüstern (Porträt von der Lodestone)\n• Smileys, Emotes & GIFs: gehen als ganz normaler Text raus - Smiley („:D“, „<3“, „o/“), Aktion („*Winken*“) bzw. Giphy-Link. Mit Plugin sieht man Sticker und Animation, ohne Plugin ganz normalen Text\n• Videos wie bei WhatsApp: Links zu YouTube, TikTok, Twitch, Vimeo, Spotify, SoundCloud und Streamable als Karte mit Bild und Titel - ein Klick spielt sie im Mini-Player direkt neben dem Chat ab (immer über dem Spiel, einstellbar)\n• Bleibt auch in Zwischensequenzen und Ladebildschirmen sichtbar, du kannst weiterschreiben\n• Rechtsklick auf Spieler: anflüstern, in Gruppe einladen, Abenteurerplakette, Untersuchen, Anvisieren\n• Sprechblasen-Verlauf, Ungelesen-Zähler, Vorschau, Erwähnungen, Verlauf pro Charakter, Größe einstellbar\n\n/chatfenster öffnet den Messenger, /chatfenster einstellungen die Einstellungen.\nSprache: Deutsch oder Englisch (Einstellungen oder /chatfenster englisch).\n\nEmoji-Sticker: Twemoji (CC-BY 4.0). GIFs: Powered by GIPHY.",
     "Tags": [
       "chat",
       "messenger",
@@ -46,7 +46,7 @@
       "video"
     ],
     "InternalName": "ModernChat",
-    "AssemblyVersion": "1.9.5.0",
+    "AssemblyVersion": "1.9.6.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/icons/ModernChat.png",
@@ -55,16 +55,16 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/ModernChat.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/ModernChat.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/ModernChat.zip",
-    "LastUpdate": 1794247232,
+    "LastUpdate": 1794279686,
     "DownloadCount": 0
   },
   {
     "Author": "D. Luuuffy",
     "Name": "EorzeaCore - Moddeck",
     "InternalName": "ModDeck",
-    "AssemblyVersion": "1.6.4.0",
-    "Punchline": "Knöpfe wie bei einem Stream Deck: ein Klick schaltet Penumbra-Mods samt Einstellungen, legt Glamourer-Designs an und spielt Emotes ab.",
-    "Description": "Ein Panel mit großen Knöpfen wie bei einem Stream Deck.\n• Pro Knopf legst du fest, welche Penumbra-Mods eingeschaltet und welche gleichzeitig ausgeschaltet werden\n• Mod-Einstellungen: beliebig viele Optionen pro Mod anhaken (alle Gruppen), auf Wunsch aus Penumbra übernehmen\n• Glamourer: pro Knopf ein Design für den Start (zusammen mit dem Emote) und eins für das Ende, das kommt, sobald du losläufst - oder dann zurücksetzen\n• Danach spielt der Knopf ein Emote oder eine ganze Emote-Playlist ab - einmal oder endlos im Loop, mit eigener Dauer pro Emote\n• Farbe und Symbol pro Knopf, Live-Anzeige ob der Knopf gerade aktiv ist\n• Exklusiv (alles aus, was andere Knöpfe einschalten) und Umschalten (nochmal drücken macht es rückgängig)\n• Läufst du los, stoppt die Playlist\n• Kategorien als Reiter, Knöpfe im Bearbeiten-Modus per Ziehen sortieren\n• Aussehen wie die Spiel-Hotbar (Knöpfe und Hintergrund einstellbar)\n• Reset-Knopf schaltet alle Mods aus dem Deck aus\n• Blendet sich in Dungeons und anderen Instanzen sanft aus (abschaltbar, auf Wunsch auch im Kampf)\n\n/deck öffnet das Deck, /deck <Name oder Nummer> löst einen Knopf aus - auch in Makros. /deck stopp beendet Emotes. Benötigt Penumbra, für Designs Glamourer.",
+    "AssemblyVersion": "1.6.5.0",
+    "Punchline": "Buttons like a Stream Deck: one click switches Penumbra mods including their settings, applies Glamourer designs and plays emotes. / Knöpfe wie bei einem Stream Deck: ein Klick schaltet Penumbra-Mods samt Einstellungen, legt Glamourer-Designs an und spielt Emotes ab.",
+    "Description": "A panel with big buttons like a Stream Deck.\n• For each button you choose which Penumbra mods are turned on and which are turned off at the same time\n• Mod settings: check as many options per mod as you like (all groups), optionally taken from Penumbra\n• Glamourer: per button one design for the start (together with the emote) and one for the end, which comes as soon as you start walking - or reset then\n• Afterwards the button plays an emote or a whole emote playlist - once or in an endless loop, with its own duration per emote\n• Color and icon per button, live display whether the button is active right now\n• Exclusive (turns off everything other buttons turn on) and toggle (pressing again undoes it)\n• If you start walking, the playlist stops\n• Categories as tabs, sort buttons by dragging in edit mode\n• Looks like the game hotbar (buttons and background adjustable)\n• Reset button turns off all mods from the deck\n• Fades out gently in dungeons and other instances (can be turned off, optionally also in combat)\n\n/deck opens the deck, /deck <name or number> triggers a button - also in macros. /deck stop ends emotes. Requires Penumbra, Glamourer for designs.\nLanguage: English or German (settings or /deck german).\n\nDeutsch:\nEin Panel mit großen Knöpfen wie bei einem Stream Deck.\n• Pro Knopf legst du fest, welche Penumbra-Mods eingeschaltet und welche gleichzeitig ausgeschaltet werden\n• Mod-Einstellungen: beliebig viele Optionen pro Mod anhaken (alle Gruppen), auf Wunsch aus Penumbra übernehmen\n• Glamourer: pro Knopf ein Design für den Start (zusammen mit dem Emote) und eins für das Ende, das kommt, sobald du losläufst - oder dann zurücksetzen\n• Danach spielt der Knopf ein Emote oder eine ganze Emote-Playlist ab - einmal oder endlos im Loop, mit eigener Dauer pro Emote\n• Farbe und Symbol pro Knopf, Live-Anzeige ob der Knopf gerade aktiv ist\n• Exklusiv (alles aus, was andere Knöpfe einschalten) und Umschalten (nochmal drücken macht es rückgängig)\n• Läufst du los, stoppt die Playlist\n• Kategorien als Reiter, Knöpfe im Bearbeiten-Modus per Ziehen sortieren\n• Aussehen wie die Spiel-Hotbar (Knöpfe und Hintergrund einstellbar)\n• Reset-Knopf schaltet alle Mods aus dem Deck aus\n• Blendet sich in Dungeons und anderen Instanzen sanft aus (abschaltbar, auf Wunsch auch im Kampf)\n\n/deck öffnet das Deck, /deck <Name oder Nummer> löst einen Knopf aus - auch in Makros. /deck stopp beendet Emotes. Benötigt Penumbra, für Designs Glamourer.\nSprache: Deutsch oder Englisch (Einstellungen oder /deck englisch).",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "Tags": [
@@ -81,14 +81,14 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/ModDeck.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/ModDeck.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/ModDeck.zip",
-    "LastUpdate": 1794247232,
+    "LastUpdate": 1794279686,
     "DownloadCount": 0
   },
   {
     "Author": "D. Luuuffy",
     "Name": "EorzeaCore - Goals",
-    "Punchline": "Stämme, Routine, Raids, Dungeons, Quests, Fliegen und alle Belohnungen - mit Questionable automatisch erledigen.",
-    "Description": "Dein Ziel-Planer für FFXIV:\n• Stämme: Rang, Ruf, Währung und Tagesquests - alle annehmen, erledigen und zum Schluss gesammelt abgeben (Questionable)\n• Routine: Timer, offene Tagesaufgaben und eine Playlist, die alles der Reihe nach abspielt\n• Raids & Dungeons: was freigeschaltet ist, was fehlt - Freischalten per Klick mit Questionable\n• Quests: alle blauen und normalen Quests, die dir noch fehlen - getrennt nach Kampf, Sammler und Handwerker, mit Belohnungen; Play = Questionable erledigt sie\n• Fliegen: Windätherquellen pro Gebiet - Quellen (vnavmesh) und Quests (Questionable) automatisch\n• Belohnungen: alle Reittiere, Begleiter, Emotes, Ausrüstungs-Sets, Mode, Orchestrion und Karten mit Herkunft\n\n/ziele öffnet das Fenster · /ziele start · /ziele playlist · /ziele stopp\n\nBenötigt: Questionable (puni.sh) mit vnavmesh, Lifestream und einem Kampf-Plugin.\n• Sprache umstellbar: Deutsch oder Englisch (Zahnrad → Sprache, oder /ziele englisch · /goals german) - auch Item- und Inhaltsnamen",
+    "Punchline": "Allied societies, routine, raids, dungeons, quests, flying and all rewards - done automatically with Questionable. / Stämme, Routine, Raids, Dungeons, Quests, Fliegen und alle Belohnungen - mit Questionable automatisch erledigen.",
+    "Description": "Your goal planner for FFXIV:\n• Allied societies: rank, reputation, currency and daily quests - accept them all, complete them and turn them in together at the end (Questionable)\n• Routine: timers, open daily tasks and a playlist that plays everything in order\n• Raids & dungeons: what is unlocked and what is missing - unlock with one click with Questionable\n• Quests: all blue and normal quests you are still missing - split into combat, gatherer and crafter, with rewards; Play = Questionable completes them\n• Flying: aether currents per zone - currents (vnavmesh) and quests (Questionable) automatically\n• Rewards: all mounts, minions, emotes, gear sets, fashion, orchestrion rolls and cards with their source\n\n/goals opens the window · /goals start · /goals playlist · /goals stop\n\nRequires: Questionable (puni.sh) with vnavmesh, Lifestream and a combat plugin.\n• Language: English or German (gear → language, or /goals english · /ziele german) - also item and content names\n\nDeutsch:\nDein Ziel-Planer für FFXIV:\n• Stämme: Rang, Ruf, Währung und Tagesquests - alle annehmen, erledigen und zum Schluss gesammelt abgeben (Questionable)\n• Routine: Timer, offene Tagesaufgaben und eine Playlist, die alles der Reihe nach abspielt\n• Raids & Dungeons: was freigeschaltet ist, was fehlt - Freischalten per Klick mit Questionable\n• Quests: alle blauen und normalen Quests, die dir noch fehlen - getrennt nach Kampf, Sammler und Handwerker, mit Belohnungen; Play = Questionable erledigt sie\n• Fliegen: Windätherquellen pro Gebiet - Quellen (vnavmesh) und Quests (Questionable) automatisch\n• Belohnungen: alle Reittiere, Begleiter, Emotes, Ausrüstungs-Sets, Mode, Orchestrion und Karten mit Herkunft\n\n/ziele öffnet das Fenster · /ziele start · /ziele playlist · /ziele stopp\n\nBenötigt: Questionable (puni.sh) mit vnavmesh, Lifestream und einem Kampf-Plugin.\n• Sprache umstellbar: Deutsch oder Englisch (Zahnrad → Sprache, oder /ziele englisch · /goals german) - auch Item- und Inhaltsnamen",
     "Tags": [
       "allied society",
       "beast tribe",
@@ -101,7 +101,7 @@
       "quests"
     ],
     "InternalName": "DailyGoals",
-    "AssemblyVersion": "1.7.2.0",
+    "AssemblyVersion": "1.7.3.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/icons/DailyGoals.png",
@@ -110,14 +110,14 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/DailyGoals.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/DailyGoals.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/DailyGoals.zip",
-    "LastUpdate": 1794247233,
+    "LastUpdate": 1794279687,
     "DownloadCount": 0
   },
   {
     "Author": "D. Luuuffy",
     "Name": "EorzeaCore - RetainerAutoPricer",
-    "Punchline": "Gehilfen-Preise automatisch aufs günstigste Angebot, Ramsch verkaufen, alte Ausrüstung verwerten, Inventar nach Kategorien.",
-    "Description": "• An der Klingel: alle Items deiner Gehilfen werden automatisch knapp unter das günstigste Marktboard-Angebot gesetzt.\n• Beim Händler: alles, was am Marktbrett weniger als deine Wertgrenze wert ist, wird automatisch verkauft (Preise von Universalis, wie Price Insight).\n• Inventar-Übersicht nach Kategorien (Waffen, Rüstung, Crafting-Materialien …) mit Marktwert, plus Sortieren nach Kategorie.\n• An der Klingel: Ramsch über den Gehilfen an NPCs verkaufen und das Gehilfen-Inventar beim Rufen automatisch sortieren.\n• Inventar-Übersicht: Rechtsklick → Benutzen, Öffnen, Anlegen (Ausrüstung direkt aus der Übersicht anziehen).\n• Marktbrett-Einkauf: kauft Begleiter, Reittiere, Emotes, Notenrollen, Karten … die dir fehlen - bis zu deinem Höchstpreis je Art.\n• Lernen & Öffnen: lernt alles Neue (Begleiter, Reittiere, Emotes …) und öffnet Kisten, Truhen, Beutel und Kartenpakete automatisch - Fantasia nie, Ausnahmen per Rechtsklick.\n• Inventar-Übersicht: Items suchen und per Knopf „Verwerten“ alte Ausrüstung bis zu deiner Gegenstandsstufe automatisch zerlegen.\n• Shift beim Öffnen halten = diesmal nicht automatisch starten · /autopreis öffnet die Einstellungen",
+    "Punchline": "Retainer prices automatically set to the cheapest offer, sell junk, desynthesize old gear, inventory by category. / Gehilfen-Preise automatisch aufs günstigste Angebot, Ramsch verkaufen, alte Ausrüstung verwerten, Inventar nach Kategorien.",
+    "Description": "• At the summoning bell: all items of your retainers are automatically set just below the cheapest market board offer.\n• At vendors: everything worth less on the market board than your value limit is sold automatically (prices from Universalis, like Price Insight).\n• Inventory overview by category (weapons, armor, crafting materials …) with market value, plus sorting by category.\n• At the summoning bell: sell junk to NPCs through your retainer and sort the retainer inventory automatically when calling them.\n• Inventory overview: right-click → use, open, equip (put on gear directly from the overview).\n• Market board shopping: buys minions, mounts, emotes, orchestrion rolls, cards … you are missing - up to your maximum price per kind.\n• Learn & open: learns everything new (minions, mounts, emotes …) and opens coffers, chests, bags and card packs automatically - never Fantasia, exceptions with a right-click.\n• Inventory overview: search items and use the “Desynth” button to automatically break down old gear up to your item level.\n• Hold Shift while opening = don't start automatically this time · /autopreis opens the settings\nLanguage: English or German (settings or /autopreis english).\n\nDeutsch:\n• An der Klingel: alle Items deiner Gehilfen werden automatisch knapp unter das günstigste Marktboard-Angebot gesetzt.\n• Beim Händler: alles, was am Marktbrett weniger als deine Wertgrenze wert ist, wird automatisch verkauft (Preise von Universalis, wie Price Insight).\n• Inventar-Übersicht nach Kategorien (Waffen, Rüstung, Crafting-Materialien …) mit Marktwert, plus Sortieren nach Kategorie.\n• An der Klingel: Ramsch über den Gehilfen an NPCs verkaufen und das Gehilfen-Inventar beim Rufen automatisch sortieren.\n• Inventar-Übersicht: Rechtsklick → Benutzen, Öffnen, Anlegen (Ausrüstung direkt aus der Übersicht anziehen).\n• Marktbrett-Einkauf: kauft Begleiter, Reittiere, Emotes, Notenrollen, Karten … die dir fehlen - bis zu deinem Höchstpreis je Art.\n• Lernen & Öffnen: lernt alles Neue (Begleiter, Reittiere, Emotes …) und öffnet Kisten, Truhen, Beutel und Kartenpakete automatisch - Fantasia nie, Ausnahmen per Rechtsklick.\n• Inventar-Übersicht: Items suchen und per Knopf „Verwerten“ alte Ausrüstung bis zu deiner Gegenstandsstufe automatisch zerlegen.\n• Shift beim Öffnen halten = diesmal nicht automatisch starten · /autopreis öffnet die Einstellungen\nSprache: Deutsch oder Englisch (Einstellungen oder /autopreis englisch).",
     "Tags": [
       "retainer",
       "market",
@@ -129,7 +129,7 @@
       "desynth"
     ],
     "InternalName": "RetainerAutoPricer",
-    "AssemblyVersion": "1.9.2.0",
+    "AssemblyVersion": "1.9.3.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/icons/RetainerAutoPricer.png",
@@ -138,16 +138,16 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/RetainerAutoPricer.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/RetainerAutoPricer.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/RetainerAutoPricer.zip",
-    "LastUpdate": 1794247233,
+    "LastUpdate": 1794279687,
     "DownloadCount": 0
   },
   {
     "Author": "D. Luuuffy",
     "Name": "EorzeaCore - Friends",
     "InternalName": "FriendRadar",
-    "AssemblyVersion": "1.6.3.0",
-    "Punchline": "Deine Freundesliste in schön - Freunde leuchten auf der Minimap und Favoriten bekommen beim Einloggen einen großen Auftritt.",
-    "Description": "Freundesliste mit Suche und Filtern - öffnet sich mit O. Jeder Freund als Karte mit Gesicht (Lodestone-Porträt), Job, Status und einem Bild vom Gebiet, in dem er gerade ist; Einladen, Flüstern, Plakette, Anwesen und Hinreisen direkt auf der Karte. Oben deine Gruppe als Banner: Gesichter mit Rollenfarbe, Krone für den Anführer und LP-Leiste; Klick auf ein Gesicht für Anführer, Rauswerfen, Abstimmen und mehr. Gesichter auch auf der Minimap und der großen Karte (M). Favoriten bekommen eine Login-Animation, die sofort mit der Chat-Meldung „hat sich eingeloggt“ startet. /freunde",
+    "AssemblyVersion": "1.6.4.0",
+    "Punchline": "Your friend list, but beautiful - friends glow on the minimap and favorites get a big entrance when they log in. / Deine Freundesliste in schön - Freunde leuchten auf der Minimap und Favoriten bekommen beim Einloggen einen großen Auftritt.",
+    "Description": "Friend list with search and filters - opens with O. Every friend as a card with face (Lodestone portrait), job, status and a picture of the zone they are in; invite, tell, adventurer plate, estate and travel right on the card. Your party at the top as a banner: faces with role colors, a crown for the leader and an HP bar; click a face for leader, kick, vote and more. Faces also on the minimap and the big map (M). Favorites get a login animation that starts right with the “has logged in” chat message. /freunde\nLanguage: English or German (settings or /freunde german).\n\nDeutsch:\nFreundesliste mit Suche und Filtern - öffnet sich mit O. Jeder Freund als Karte mit Gesicht (Lodestone-Porträt), Job, Status und einem Bild vom Gebiet, in dem er gerade ist; Einladen, Flüstern, Plakette, Anwesen und Hinreisen direkt auf der Karte. Oben deine Gruppe als Banner: Gesichter mit Rollenfarbe, Krone für den Anführer und LP-Leiste; Klick auf ein Gesicht für Anführer, Rauswerfen, Abstimmen und mehr. Gesichter auch auf der Minimap und der großen Karte (M). Favoriten bekommen eine Login-Animation, die sofort mit der Chat-Meldung „hat sich eingeloggt“ startet. /freunde\nSprache: Deutsch oder Englisch (Einstellungen oder /freunde englisch).",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "LoadPriority": 0,
@@ -167,14 +167,14 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/FriendRadar.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/FriendRadar.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/FriendRadar.zip",
-    "LastUpdate": 1794247233,
+    "LastUpdate": 1794279687,
     "DownloadCount": 0
   },
   {
     "Author": "D. Luuuffy",
     "Name": "EorzeaCore - Housing Tracker",
-    "Punchline": "Freie Grundstücke, Lotterie-Ziehung und Bewerber auf einen Blick - dazu offene Clubs mit Live-DJs und „Hingehen“ per Lifestream.",
-    "Description": "Deine Startseite für Wohngebiete in FFXIV:\n• Lotterie: Phase, Countdown bis zur Ziehung und Zeitleiste der Runde\n• Alle freien Grundstücke einer Welt oder eines ganzen Rechenzentrums, auch der anderen in deiner Region (z. B. Chaos und Light) - mit Größe, Preis, Bewerbern und Gewinnchance\n• Wohngebiete als Karten, beste Chancen zuerst, einfache Filter\n• Hingehen: Lifestream reist direkt zum Grundstück (auch auf andere Welten)\n• Deine Bewerbung wird am Schild automatisch erkannt und oben als 3D-Karte gezeigt - mit Anflug wie bei Google Earth\n• Karten genau wie im Spiel: Grundstücke mit Mauern und Tor, Beliebtheit als Heatmap\n• Merkliste, Hinweise und Anzeige in der Serverinfo-Leiste\n• Clubs: alle gerade offenen Clubs, Casinos, Badehäuser, Cafés … deines Rechenzentrums mit Öffnungszeit, Hausgröße und „Hingehen“ - mit Twitch verbunden siehst du, welcher DJ gerade wo live ist, und sortierst nach „wo am meisten los ist“\n\n/grundstuecke oder /haus öffnet das Fenster, /haus clubs direkt die Clubs.\n\nDaten: PaissaDB (gesammelt mit dem Plugin PaissaHouse). Für „Hingehen“: Lifestream. Für Live-DJs: ein Twitch-Konto (Anmeldung per Code).",
+    "Punchline": "Free plots, lottery draw and entries at a glance - plus open clubs with live DJs and “Go there” via Lifestream. / Freie Grundstücke, Lotterie-Ziehung und Bewerber auf einen Blick - dazu offene Clubs mit Live-DJs und „Hingehen“ per Lifestream.",
+    "Description": "Your start page for housing in FFXIV:\n• Lottery: phase, countdown to the draw and a timeline of the round\n• All free plots of a world or a whole data center, also the other ones in your region (e.g. Chaos and Light) - with size, price, entries and chance to win\n• Residential districts as cards, best chances first, simple filters\n• Go there: Lifestream travels directly to the plot (also to other worlds)\n• Your entry is detected automatically at the placard and shown at the top as a 3D map - with a fly-in like Google Earth\n• Maps just like in the game: plots with walls and gate, popularity as a heatmap\n• Favorites, notifications and a display in the server info bar\n• Clubs: all clubs, casinos, bathhouses, cafés … of your data center that are open right now, with opening hours, house size and “Go there” - connected to Twitch you see which DJ is live where and sort by “busiest”\n\n/grundstuecke or /haus opens the window, /haus clubs opens the clubs directly.\nLanguage: English or German (settings or /haus english).\n\nData: PaissaDB (collected with the PaissaHouse plugin). For “Go there”: Lifestream. For live DJs: a Twitch account (login with a code).\n\nDeutsch:\nDeine Startseite für Wohngebiete in FFXIV:\n• Lotterie: Phase, Countdown bis zur Ziehung und Zeitleiste der Runde\n• Alle freien Grundstücke einer Welt oder eines ganzen Rechenzentrums, auch der anderen in deiner Region (z. B. Chaos und Light) - mit Größe, Preis, Bewerbern und Gewinnchance\n• Wohngebiete als Karten, beste Chancen zuerst, einfache Filter\n• Hingehen: Lifestream reist direkt zum Grundstück (auch auf andere Welten)\n• Deine Bewerbung wird am Schild automatisch erkannt und oben als 3D-Karte gezeigt - mit Anflug wie bei Google Earth\n• Karten genau wie im Spiel: Grundstücke mit Mauern und Tor, Beliebtheit als Heatmap\n• Merkliste, Hinweise und Anzeige in der Serverinfo-Leiste\n• Clubs: alle gerade offenen Clubs, Casinos, Badehäuser, Cafés … deines Rechenzentrums mit Öffnungszeit, Hausgröße und „Hingehen“ - mit Twitch verbunden siehst du, welcher DJ gerade wo live ist, und sortierst nach „wo am meisten los ist“\n\n/grundstuecke oder /haus öffnet das Fenster, /haus clubs direkt die Clubs.\nSprache: Deutsch oder Englisch (Einstellungen oder /haus englisch).\n\nDaten: PaissaDB (gesammelt mit dem Plugin PaissaHouse). Für „Hingehen“: Lifestream. Für Live-DJs: ein Twitch-Konto (Anmeldung per Code).",
     "Tags": [
       "housing",
       "lottery",
@@ -187,7 +187,7 @@
       "twitch"
     ],
     "InternalName": "HousingBoard",
-    "AssemblyVersion": "1.7.0.0",
+    "AssemblyVersion": "1.7.1.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/icons/HousingBoard.png",
@@ -196,7 +196,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/HousingBoard.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/HousingBoard.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/HousingBoard.zip",
-    "LastUpdate": 1794263073,
+    "LastUpdate": 1794279687,
     "DownloadCount": 0
   }
 ]
