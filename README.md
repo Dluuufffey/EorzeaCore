@@ -24,19 +24,20 @@ Updates kommen danach automatisch beim Einloggen (oder über „Aktualisieren“
 
 <table>
 <tr>
-<td align="center" valign="top" width="50%"><img src="icons/AggroRadar.png" width="96" alt="Aggro Radar"><br><b>Aggro Radar</b><br><code>1.2.10</code><br>Immersives Tank-Plugin</td>
-<td align="center" valign="top" width="50%"><img src="icons/ModernChat.png" width="96" alt="Chat"><br><b>Chat</b><br><code>1.9.6</code><br>Ersetzt den Spiel-Chat</td>
+<td valign="top" width="50%"><img src="icons/AggroRadar.png" width="72" align="left" alt="Aggro Radar"><b>Aggro Radar</b> <code>1.2.10</code><br>Immersives Tank-Plugin</td>
+<td valign="top" width="50%"><img src="icons/ModernChat.png" width="72" align="left" alt="Chat"><b>Chat</b> <code>1.9.6</code><br>Ersetzt den Spiel-Chat</td>
 </tr>
 <tr>
-<td align="center" valign="top" width="50%"><img src="icons/ModDeck.png" width="96" alt="Moddeck"><br><b>Moddeck</b><br><code>1.6.5</code><br>Penumbra-Mods, Designs und Emotes per Knopfdruck</td>
-<td align="center" valign="top" width="50%"><img src="icons/DailyGoals.png" width="96" alt="Goals"><br><b>Goals</b><br><code>1.7.3</code><br>Raids, Dungeons, Quests und Stämme im Blick</td>
+<td valign="top" width="50%"><img src="icons/ModDeck.png" width="72" align="left" alt="Moddeck"><b>Moddeck</b> <code>1.6.5</code><br>Penumbra-Mods, Designs und Emotes per Knopfdruck</td>
+<td valign="top" width="50%"><img src="icons/DailyGoals.png" width="72" align="left" alt="Goals"><b>Goals</b> <code>1.7.3</code><br>Raids, Dungeons, Quests und Stämme im Blick</td>
 </tr>
 <tr>
-<td align="center" valign="top" width="50%"><img src="icons/RetainerAutoPricer.png" width="96" alt="RetainerAutoPricer"><br><b>RetainerAutoPricer</b><br><code>1.9.3</code><br>Automatische Preise für deine Gehilfen</td>
-<td align="center" valign="top" width="50%"><img src="icons/FriendRadar.png" width="96" alt="Friends"><br><b>Friends</b><br><code>1.6.4</code><br>Deine Freundesliste in schön - Freunde leuchten auf der Minimap</td>
+<td valign="top" width="50%"><img src="icons/RetainerAutoPricer.png" width="72" align="left" alt="RetainerAutoPricer"><b>RetainerAutoPricer</b> <code>1.9.3</code><br>Automatische Preise für deine Gehilfen</td>
+<td valign="top" width="50%"><img src="icons/FriendRadar.png" width="72" align="left" alt="Friends"><b>Friends</b> <code>1.6.4</code><br>Deine Freundesliste in schön - Freunde leuchten auf der Minimap</td>
 </tr>
 <tr>
-<td align="center" valign="top" colspan="2"><img src="icons/HousingBoard.png" width="96" alt="Housing Tracker"><br><b>Housing Tracker</b><br><code>1.7.1</code><br>Freie Grundstücke, Lotterie und Clubs mit Live-DJs</td>
+<td valign="top" width="50%"><img src="icons/HousingBoard.png" width="72" align="left" alt="Housing Tracker"><b>Housing Tracker</b> <code>1.7.1</code><br>Freie Grundstücke, Lotterie und Clubs mit Live-DJs</td>
+<td width="50%"></td>
 </tr>
 </table>
 
@@ -68,18 +69,19 @@ Updates then arrive automatically when you log in (or via “Update” in the pl
 
 <table>
 <tr>
-<td align="center" valign="top" width="50%"><img src="icons/AggroRadar.png" width="96" alt="Aggro Radar"><br><b>Aggro Radar</b><br><code>1.2.10</code><br>Immersive tank plugin</td>
-<td align="center" valign="top" width="50%"><img src="icons/ModernChat.png" width="96" alt="Chat"><br><b>Chat</b><br><code>1.9.6</code><br>Replaces the game chat</td>
+<td valign="top" width="50%"><img src="icons/AggroRadar.png" width="72" align="left" alt="Aggro Radar"><b>Aggro Radar</b> <code>1.2.10</code><br>Immersive tank plugin</td>
+<td valign="top" width="50%"><img src="icons/ModernChat.png" width="72" align="left" alt="Chat"><b>Chat</b> <code>1.9.6</code><br>Replaces the game chat</td>
 </tr>
 <tr>
-<td align="center" valign="top" width="50%"><img src="icons/ModDeck.png" width="96" alt="Moddeck"><br><b>Moddeck</b><br><code>1.6.5</code><br>Penumbra mods, designs and emotes at the push of a button</td>
-<td align="center" valign="top" width="50%"><img src="icons/DailyGoals.png" width="96" alt="Goals"><br><b>Goals</b><br><code>1.7.3</code><br>Raids, dungeons, quests and allied societies at a glance</td>
+<td valign="top" width="50%"><img src="icons/ModDeck.png" width="72" align="left" alt="Moddeck"><b>Moddeck</b> <code>1.6.5</code><br>Penumbra mods, designs and emotes at the push of a button</td>
+<td valign="top" width="50%"><img src="icons/DailyGoals.png" width="72" align="left" alt="Goals"><b>Goals</b> <code>1.7.3</code><br>Raids, dungeons, quests and allied societies at a glance</td>
 </tr>
 <tr>
-<td align="center" valign="top" width="50%"><img src="icons/RetainerAutoPricer.png" width="96" alt="RetainerAutoPricer"><br><b>RetainerAutoPricer</b><br><code>1.9.3</code><br>Automatic prices for your retainers</td>
-<td align="center" valign="top" width="50%"><img src="icons/FriendRadar.png" width="96" alt="Friends"><br><b>Friends</b><br><code>1.6.4</code><br>Your friend list, but beautiful - friends glow on the minimap</td>
+<td valign="top" width="50%"><img src="icons/RetainerAutoPricer.png" width="72" align="left" alt="RetainerAutoPricer"><b>RetainerAutoPricer</b> <code>1.9.3</code><br>Automatic prices for your retainers</td>
+<td valign="top" width="50%"><img src="icons/FriendRadar.png" width="72" align="left" alt="Friends"><b>Friends</b> <code>1.6.4</code><br>Your friend list, but beautiful - friends glow on the minimap</td>
 </tr>
 <tr>
-<td align="center" valign="top" colspan="2"><img src="icons/HousingBoard.png" width="96" alt="Housing Tracker"><br><b>Housing Tracker</b><br><code>1.7.1</code><br>Free plots, lottery and clubs with live DJs</td>
+<td valign="top" width="50%"><img src="icons/HousingBoard.png" width="72" align="left" alt="Housing Tracker"><b>Housing Tracker</b> <code>1.7.1</code><br>Free plots, lottery and clubs with live DJs</td>
+<td width="50%"></td>
 </tr>
 </table>
