@@ -55,7 +55,7 @@
     "Author": "D. Luuuffy",
     "Name": "EorzeaCore - Friends",
     "InternalName": "FriendRadar",
-    "AssemblyVersion": "1.6.4.0",
+    "AssemblyVersion": "1.6.5.0",
     "Punchline": "Your friend list, but beautiful - friends glow on the minimap and favorites get a big entrance when they log in. / Deine Freundesliste in schön - Freunde leuchten auf der Minimap und Favoriten bekommen beim Einloggen einen großen Auftritt.",
     "Description": "Friend list with search and filters - opens with O. Every friend as a card with face (Lodestone portrait), job, status and a picture of the zone they are in; invite, tell, adventurer plate, estate and travel right on the card. Your party at the top as a banner: faces with role colors, a crown for the leader and an HP bar; click a face for leader, kick, vote and more. Faces also on the minimap and the big map (M). Favorites get a login animation that starts right with the “has logged in” chat message. /freunde\nLanguage: English or German (settings or /freunde german).\n\nDeutsch:\nFreundesliste mit Suche und Filtern - öffnet sich mit O. Jeder Freund als Karte mit Gesicht (Lodestone-Porträt), Job, Status und einem Bild vom Gebiet, in dem er gerade ist; Einladen, Flüstern, Plakette, Anwesen und Hinreisen direkt auf der Karte. Oben deine Gruppe als Banner: Gesichter mit Rollenfarbe, Krone für den Anführer und LP-Leiste; Klick auf ein Gesicht für Anführer, Rauswerfen, Abstimmen und mehr. Gesichter auch auf der Minimap und der großen Karte (M). Favoriten bekommen eine Login-Animation, die sofort mit der Chat-Meldung „hat sich eingeloggt“ startet. /freunde\nSprache: Deutsch oder Englisch (Einstellungen oder /freunde englisch).",
     "ApplicableVersion": "any",
@@ -77,7 +77,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/FriendRadar.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/FriendRadar.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/FriendRadar.zip",
-    "LastUpdate": 1794279687,
+    "LastUpdate": 1794366954,
     "DownloadCount": 0
   },
   {

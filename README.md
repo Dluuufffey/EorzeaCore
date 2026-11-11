@@ -29,7 +29,7 @@ Updates kommen danach automatisch beim Einloggen (oder über „Aktualisieren“
 </tr>
 <tr>
 <td width="80" align="center"><img src="icons/DailyGoals.png" width="72" alt="EorzeaCore - Goals"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Goals</b>&nbsp;<code>1.7.3</code><br>Raids, Dungeons, Quests und Stämme im Blick</td>
-<td width="80" align="center"><img src="icons/FriendRadar.png" width="72" alt="EorzeaCore - Friends"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Friends</b>&nbsp;<code>1.6.4</code><br>Deine Freundesliste in schön - Freunde leuchten auf der Minimap</td>
+<td width="80" align="center"><img src="icons/FriendRadar.png" width="72" alt="EorzeaCore - Friends"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Friends</b>&nbsp;<code>1.6.5</code><br>Deine Freundesliste in schön - Freunde leuchten auf der Minimap</td>
 </tr>
 <tr>
 <td width="80" align="center"><img src="icons/HousingBoard.png" width="72" alt="EorzeaCore - Housing Tracker"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Housing&nbsp;Tracker</b>&nbsp;<code>1.7.5</code><br>Freie Grundstücke, Lotterie und Clubs mit Live-DJs</td>
@@ -74,7 +74,7 @@ Updates then arrive automatically when you log in (or via “Update” in the pl
 </tr>
 <tr>
 <td width="80" align="center"><img src="icons/DailyGoals.png" width="72" alt="EorzeaCore - Goals"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Goals</b>&nbsp;<code>1.7.3</code><br>Raids, dungeons, quests and allied societies at a glance</td>
-<td width="80" align="center"><img src="icons/FriendRadar.png" width="72" alt="EorzeaCore - Friends"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Friends</b>&nbsp;<code>1.6.4</code><br>Your friend list, but beautiful - friends glow on the minimap</td>
+<td width="80" align="center"><img src="icons/FriendRadar.png" width="72" alt="EorzeaCore - Friends"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Friends</b>&nbsp;<code>1.6.5</code><br>Your friend list, but beautiful - friends glow on the minimap</td>
 </tr>
 <tr>
 <td width="80" align="center"><img src="icons/HousingBoard.png" width="72" alt="EorzeaCore - Housing Tracker"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Housing&nbsp;Tracker</b>&nbsp;<code>1.7.5</code><br>Free plots, lottery and clubs with live DJs</td>
