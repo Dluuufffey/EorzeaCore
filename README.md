@@ -40,7 +40,7 @@ Updates kommen danach automatisch beim Einloggen (oder über „Aktualisieren“
 <td width="80" align="center"><img src="icons/EorzeaStream.png" width="72" alt="EorzeaCore - Stream"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Stream</b>&nbsp;<code>1.0.10</code><br>Videos gemeinsam auf einem Bildschirm in der Spielwelt schauen</td>
 </tr>
 <tr>
-<td width="80" align="center"><img src="icons/LootPass.png" width="72" alt="EorzeaCore - Loot"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Loot</b>&nbsp;<code>1.3.1</code><br>Beute automatisch passen oder würfeln - mit 3D-Würfel</td>
+<td width="80" align="center"><img src="icons/LootPass.png" width="72" alt="EorzeaCore - Loot"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Loot</b>&nbsp;<code>1.3.2</code><br>Beute automatisch passen oder würfeln - mit 3D-Würfel</td>
 <td colspan="2"></td>
 </tr>
 </table>
@@ -89,7 +89,7 @@ Updates then arrive automatically when you log in (or via “Update” in the pl
 <td width="80" align="center"><img src="icons/EorzeaStream.png" width="72" alt="EorzeaCore - Stream"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Stream</b>&nbsp;<code>1.0.10</code><br>Watch videos together on a screen in the game world</td>
 </tr>
 <tr>
-<td width="80" align="center"><img src="icons/LootPass.png" width="72" alt="EorzeaCore - Loot"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Loot</b>&nbsp;<code>1.3.1</code><br>Pass or roll loot automatically - with a 3D die</td>
+<td width="80" align="center"><img src="icons/LootPass.png" width="72" alt="EorzeaCore - Loot"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Loot</b>&nbsp;<code>1.3.2</code><br>Pass or roll loot automatically - with a 3D die</td>
 <td colspan="2"></td>
 </tr>
 </table>
