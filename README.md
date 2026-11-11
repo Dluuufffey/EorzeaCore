@@ -25,14 +25,14 @@ Updates kommen danach automatisch beim Einloggen (oder über „Aktualisieren“
 <table>
 <tr>
 <td width="80" align="center"><img src="icons/AggroRadar.png" width="72" alt="EorzeaCore - Aggro Radar"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Aggro&nbsp;Radar</b>&nbsp;<code>1.2.10</code><br>Immersives Tank-Plugin</td>
-<td width="80" align="center"><img src="icons/ModernChat.png" width="72" alt="EorzeaCore - Chat"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Chat</b>&nbsp;<code>1.9.7</code><br>Ersetzt den Spiel-Chat</td>
+<td width="80" align="center"><img src="icons/ModernChat.png" width="72" alt="EorzeaCore - Chat"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Chat</b>&nbsp;<code>1.9.8</code><br>Ersetzt den Spiel-Chat</td>
 </tr>
 <tr>
 <td width="80" align="center"><img src="icons/ModDeck.png" width="72" alt="EorzeaCore - Moddeck"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Moddeck</b>&nbsp;<code>1.6.5</code><br>Penumbra-Mods, Designs und Emotes per Knopfdruck</td>
 <td width="80" align="center"><img src="icons/DailyGoals.png" width="72" alt="EorzeaCore - Goals"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Goals</b>&nbsp;<code>1.7.3</code><br>Raids, Dungeons, Quests und Stämme im Blick</td>
 </tr>
 <tr>
-<td width="80" align="center"><img src="icons/RetainerAutoPricer.png" width="72" alt="EorzeaCore - Inv Retainer"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Inv&nbsp;Retainer</b>&nbsp;<code>1.9.6</code><br>Automatische Preise für deine Gehilfen</td>
+<td width="80" align="center"><img src="icons/RetainerAutoPricer.png" width="72" alt="EorzeaCore - Inv Retainer"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Inv&nbsp;Retainer</b>&nbsp;<code>1.9.7</code><br>Automatische Preise für deine Gehilfen</td>
 <td width="80" align="center"><img src="icons/FriendRadar.png" width="72" alt="EorzeaCore - Friends"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Friends</b>&nbsp;<code>1.6.4</code><br>Deine Freundesliste in schön - Freunde leuchten auf der Minimap</td>
 </tr>
 <tr>
@@ -70,14 +70,14 @@ Updates then arrive automatically when you log in (or via “Update” in the pl
 <table>
 <tr>
 <td width="80" align="center"><img src="icons/AggroRadar.png" width="72" alt="EorzeaCore - Aggro Radar"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Aggro&nbsp;Radar</b>&nbsp;<code>1.2.10</code><br>Immersive tank plugin</td>
-<td width="80" align="center"><img src="icons/ModernChat.png" width="72" alt="EorzeaCore - Chat"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Chat</b>&nbsp;<code>1.9.7</code><br>Replaces the game chat</td>
+<td width="80" align="center"><img src="icons/ModernChat.png" width="72" alt="EorzeaCore - Chat"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Chat</b>&nbsp;<code>1.9.8</code><br>Replaces the game chat</td>
 </tr>
 <tr>
 <td width="80" align="center"><img src="icons/ModDeck.png" width="72" alt="EorzeaCore - Moddeck"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Moddeck</b>&nbsp;<code>1.6.5</code><br>Penumbra mods, designs and emotes at the push of a button</td>
 <td width="80" align="center"><img src="icons/DailyGoals.png" width="72" alt="EorzeaCore - Goals"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Goals</b>&nbsp;<code>1.7.3</code><br>Raids, dungeons, quests and allied societies at a glance</td>
 </tr>
 <tr>
-<td width="80" align="center"><img src="icons/RetainerAutoPricer.png" width="72" alt="EorzeaCore - Inv Retainer"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Inv&nbsp;Retainer</b>&nbsp;<code>1.9.6</code><br>Automatic prices for your retainers</td>
+<td width="80" align="center"><img src="icons/RetainerAutoPricer.png" width="72" alt="EorzeaCore - Inv Retainer"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Inv&nbsp;Retainer</b>&nbsp;<code>1.9.7</code><br>Automatic prices for your retainers</td>
 <td width="80" align="center"><img src="icons/FriendRadar.png" width="72" alt="EorzeaCore - Friends"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Friends</b>&nbsp;<code>1.6.4</code><br>Your friend list, but beautiful - friends glow on the minimap</td>
 </tr>
 <tr>
