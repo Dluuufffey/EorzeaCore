@@ -24,7 +24,7 @@ Updates kommen danach automatisch beim Einloggen (oder über „Aktualisieren“
 
 <table>
 <tr>
-<td width="80" align="center"><img src="icons/ModernChat.png" width="72" alt="EorzeaCore - Chat"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Chat</b>&nbsp;<code>1.9.12</code><br>Ersetzt den Spiel-Chat</td>
+<td width="80" align="center"><img src="icons/ModernChat.png" width="72" alt="EorzeaCore - Chat"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Chat</b>&nbsp;<code>1.9.13</code><br>Ersetzt den Spiel-Chat</td>
 <td width="80" align="center"><img src="icons/ModDeck.png" width="72" alt="EorzeaCore - Moddeck"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Moddeck</b>&nbsp;<code>1.6.5</code><br>Penumbra-Mods, Designs und Emotes per Knopfdruck</td>
 </tr>
 <tr>
@@ -69,7 +69,7 @@ Updates then arrive automatically when you log in (or via “Update” in the pl
 
 <table>
 <tr>
-<td width="80" align="center"><img src="icons/ModernChat.png" width="72" alt="EorzeaCore - Chat"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Chat</b>&nbsp;<code>1.9.12</code><br>Replaces the game chat</td>
+<td width="80" align="center"><img src="icons/ModernChat.png" width="72" alt="EorzeaCore - Chat"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Chat</b>&nbsp;<code>1.9.13</code><br>Replaces the game chat</td>
 <td width="80" align="center"><img src="icons/ModDeck.png" width="72" alt="EorzeaCore - Moddeck"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Moddeck</b>&nbsp;<code>1.6.5</code><br>Penumbra mods, designs and emotes at the push of a button</td>
 </tr>
 <tr>

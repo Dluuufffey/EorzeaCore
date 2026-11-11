@@ -13,7 +13,7 @@
       "video"
     ],
     "InternalName": "ModernChat",
-    "AssemblyVersion": "1.9.12.0",
+    "AssemblyVersion": "1.9.13.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/icons/ModernChat.png",
@@ -22,7 +22,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/ModernChat.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/ModernChat.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/ModernChat.zip",
-    "LastUpdate": 1794371051,
+    "LastUpdate": 1794371313,
     "DownloadCount": 0
   },
   {
