@@ -4,7 +4,7 @@
 
 Dalamud-Plugins für FINAL FANTASY XIV von D. Luuuffy.
 
-Alle Plugins starten auf Deutsch und lassen sich auf Englisch umschalten - in den Einstellungen des Plugins oder per Befehl, z. B. `/beute englisch`.
+Alle Plugins starten auf Deutsch und lassen sich auf Englisch umschalten - in den Einstellungen des Plugins oder per Befehl, z. B. `/ziele englisch`.
 
 ## So bekommst du die Plugins
 
@@ -28,12 +28,16 @@ Updates kommen danach automatisch beim Einloggen (oder über „Aktualisieren“
 <td width="80" align="center"><img src="icons/ModDeck.png" width="72" alt="EorzeaCore - Moddeck"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Moddeck</b>&nbsp;<code>1.6.5</code><br>Penumbra-Mods, Designs und Emotes per Knopfdruck</td>
 </tr>
 <tr>
+<td width="80" align="center"><img src="icons/DailyGoals.png" width="72" alt="EorzeaCore - Goals"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Goals</b>&nbsp;<code>1.7.3</code><br>Raids, Dungeons, Quests und Stämme im Blick</td>
 <td width="80" align="center"><img src="icons/FriendRadar.png" width="72" alt="EorzeaCore - Friends"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Friends</b>&nbsp;<code>1.6.4</code><br>Deine Freundesliste in schön - Freunde leuchten auf der Minimap</td>
-<td width="80" align="center"><img src="icons/HousingBoard.png" width="72" alt="EorzeaCore - Housing Tracker"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Housing&nbsp;Tracker</b>&nbsp;<code>1.7.5</code><br>Freie Grundstücke, Lotterie und Clubs mit Live-DJs</td>
 </tr>
 <tr>
+<td width="80" align="center"><img src="icons/HousingBoard.png" width="72" alt="EorzeaCore - Housing Tracker"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Housing&nbsp;Tracker</b>&nbsp;<code>1.7.5</code><br>Freie Grundstücke, Lotterie und Clubs mit Live-DJs</td>
 <td width="80" align="center"><img src="icons/EorzeaStream.png" width="72" alt="EorzeaCore - Stream"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Stream</b>&nbsp;<code>1.0.10</code><br>Videos gemeinsam auf einem Bildschirm in der Spielwelt schauen</td>
+</tr>
+<tr>
 <td width="80" align="center"><img src="icons/LootPass.png" width="72" alt="EorzeaCore - Loot"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Loot</b>&nbsp;<code>1.3.4</code><br>Beute automatisch passen oder würfeln - mit 3D-Würfel</td>
+<td colspan="2"></td>
 </tr>
 </table>
 
@@ -45,7 +49,7 @@ Updates kommen danach automatisch beim Einloggen (oder über „Aktualisieren“
 
 Dalamud plugins for FINAL FANTASY XIV by D. Luuuffy.
 
-All plugins start in German and can be switched to English - in the plugin's settings or with its command, e.g. `/beute english`.
+All plugins start in German and can be switched to English - in the plugin's settings or with its command, e.g. `/goals english`.
 
 ## How to get the plugins
 
@@ -69,11 +73,15 @@ Updates then arrive automatically when you log in (or via “Update” in the pl
 <td width="80" align="center"><img src="icons/ModDeck.png" width="72" alt="EorzeaCore - Moddeck"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Moddeck</b>&nbsp;<code>1.6.5</code><br>Penumbra mods, designs and emotes at the push of a button</td>
 </tr>
 <tr>
+<td width="80" align="center"><img src="icons/DailyGoals.png" width="72" alt="EorzeaCore - Goals"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Goals</b>&nbsp;<code>1.7.3</code><br>Raids, dungeons, quests and allied societies at a glance</td>
 <td width="80" align="center"><img src="icons/FriendRadar.png" width="72" alt="EorzeaCore - Friends"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Friends</b>&nbsp;<code>1.6.4</code><br>Your friend list, but beautiful - friends glow on the minimap</td>
-<td width="80" align="center"><img src="icons/HousingBoard.png" width="72" alt="EorzeaCore - Housing Tracker"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Housing&nbsp;Tracker</b>&nbsp;<code>1.7.5</code><br>Free plots, lottery and clubs with live DJs</td>
 </tr>
 <tr>
+<td width="80" align="center"><img src="icons/HousingBoard.png" width="72" alt="EorzeaCore - Housing Tracker"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Housing&nbsp;Tracker</b>&nbsp;<code>1.7.5</code><br>Free plots, lottery and clubs with live DJs</td>
 <td width="80" align="center"><img src="icons/EorzeaStream.png" width="72" alt="EorzeaCore - Stream"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Stream</b>&nbsp;<code>1.0.10</code><br>Watch videos together on a screen in the game world</td>
+</tr>
+<tr>
 <td width="80" align="center"><img src="icons/LootPass.png" width="72" alt="EorzeaCore - Loot"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Loot</b>&nbsp;<code>1.3.4</code><br>Pass or roll loot automatically - with a 3D die</td>
+<td colspan="2"></td>
 </tr>
 </table>
