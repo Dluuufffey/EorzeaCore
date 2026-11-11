@@ -39,6 +39,10 @@ Updates kommen danach automatisch beim Einloggen (oder über „Aktualisieren“
 <td width="80" align="center"><img src="icons/HousingBoard.png" width="72" alt="EorzeaCore - Housing Tracker"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Housing&nbsp;Tracker</b>&nbsp;<code>1.7.5</code><br>Freie Grundstücke, Lotterie und Clubs mit Live-DJs</td>
 <td width="80" align="center"><img src="icons/EorzeaStream.png" width="72" alt="EorzeaCore - Stream"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Stream</b>&nbsp;<code>1.0.10</code><br>Videos gemeinsam auf einem Bildschirm in der Spielwelt schauen</td>
 </tr>
+<tr>
+<td width="80" align="center"><img src="icons/LootPass.png" width="72" alt="EorzeaCore - Loot"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Loot</b>&nbsp;<code>1.3.1</code><br>Beute automatisch passen oder würfeln - mit 3D-Würfel</td>
+<td colspan="2"></td>
+</tr>
 </table>
 
 <br>
@@ -83,5 +87,9 @@ Updates then arrive automatically when you log in (or via “Update” in the pl
 <tr>
 <td width="80" align="center"><img src="icons/HousingBoard.png" width="72" alt="EorzeaCore - Housing Tracker"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Housing&nbsp;Tracker</b>&nbsp;<code>1.7.5</code><br>Free plots, lottery and clubs with live DJs</td>
 <td width="80" align="center"><img src="icons/EorzeaStream.png" width="72" alt="EorzeaCore - Stream"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Stream</b>&nbsp;<code>1.0.10</code><br>Watch videos together on a screen in the game world</td>
+</tr>
+<tr>
+<td width="80" align="center"><img src="icons/LootPass.png" width="72" alt="EorzeaCore - Loot"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Loot</b>&nbsp;<code>1.3.1</code><br>Pass or roll loot automatically - with a 3D die</td>
+<td colspan="2"></td>
 </tr>
 </table>
