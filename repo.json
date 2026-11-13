@@ -140,7 +140,7 @@
     "Author": "D. Luuuffy",
     "Name": "EorzeaCore - Loot",
     "Punchline": "Pass, Need or Greed automatically per content - no clicking. All you see is the 3D die in the middle of the screen. / Pro Inhalt automatisch Passen, Bedarf oder Gier - ohne Klicken. Du siehst nur noch den 3D-Würfel in der Bildschirmmitte.",
-    "Description": "Loot fully automatic:\n• Per content: Pass · Need · Greed · Manual\n• Pass: as soon as someone opens a chest, every item is passed right away\n• Need: rolls Need where allowed - otherwise Greed\n• Greed: rolls Greed for you\n• Content: dungeons, trials, extreme trials, raids, savage raids, alliance raids, ultimate raids, variant dungeons, treasure dungeons, deep dungeons, field operations, open world\n• 3D die: for every Need or Greed a physically simulated die flies into the middle of the screen and shows your real roll\n• Preview in the game, history, statistics, server info bar\n• /fensterzu closes the windows of your EorzeaCore plugins - ideal in a macro before /beute, /grundstuecke or /ziele\n\n/beute opens the window · /beute preview · /beute on · /beute off · /fensterzu\nLanguage: English or German (settings or /beute english).\n\nDeutsch:\nBeute komplett automatisch:\n• Pro Inhalt wählbar: Passen · Bedarf · Gier · Selbst\n• Passen: Öffnet jemand eine Truhe, wird jeder Gegenstand sofort gepasst\n• Bedarf: würfelt Bedarf, wo erlaubt - sonst Gier\n• Gier: würfelt Gier für dich\n• Inhalte: Dungeons, Prüfungen, Extrem, Raids, Epische Raids, Allianz, Fatale Raids, Gewölbesuchen, Schatzgewölbe, Tiefe Gewölbe, Feldeinsätze, offene Welt\n• 3D-Würfel: Bei jedem Bedarf/Gier fliegt ein physikalisch simulierter Würfel in die Bildschirmmitte und zeigt deinen echten Wurf\n• Vorschau im Spiel, Verlauf, Statistik, Serverinfo-Leiste\n• /fensterzu schließt die Fenster deiner EorzeaCore-Plugins - ideal im Makro vor /beute, /grundstuecke oder /ziele\n\n/beute öffnet das Fenster · /beute vorschau · /beute an · /beute aus · /fensterzu\nSprache: Deutsch oder Englisch (Einstellungen oder /beute englisch).",
+    "Description": "Loot fully automatic:\n• Per content: Pass · Need · Greed · Manual\n• Pass: as soon as someone opens a chest, every item is passed right away\n• Need: rolls Need where allowed - otherwise Greed\n• Greed: rolls Greed for you\n• Content: dungeons, trials, extreme trials, raids, savage raids, alliance raids, ultimate raids, variant dungeons, treasure dungeons, deep dungeons, field operations, open world\n• 3D die: for every Need or Greed a physically simulated die flies into the middle of the screen and shows your real roll\n• Run diary: time, deaths and wipes per boss, best times and the loot of every run\n• Preview in the game, history, statistics, server info bar\n• /fensterzu closes the windows of your EorzeaCore plugins - ideal in a macro before /beute, /grundstuecke or /ziele\n\n/beute opens the window · /beute runs · /beute preview · /beute on · /beute off · /fensterzu\nLanguage: English or German (settings or /beute english).\n\nDeutsch:\nBeute komplett automatisch:\n• Pro Inhalt wählbar: Passen · Bedarf · Gier · Selbst\n• Passen: Öffnet jemand eine Truhe, wird jeder Gegenstand sofort gepasst\n• Bedarf: würfelt Bedarf, wo erlaubt - sonst Gier\n• Gier: würfelt Gier für dich\n• Inhalte: Dungeons, Prüfungen, Extrem, Raids, Epische Raids, Allianz, Fatale Raids, Gewölbesuchen, Schatzgewölbe, Tiefe Gewölbe, Feldeinsätze, offene Welt\n• 3D-Würfel: Bei jedem Bedarf/Gier fliegt ein physikalisch simulierter Würfel in die Bildschirmmitte und zeigt deinen echten Wurf\n• Run-Tagebuch: Zeit, Tode und Wipes pro Boss, Bestzeiten und die Beute jedes Runs\n• Vorschau im Spiel, Verlauf, Statistik, Serverinfo-Leiste\n• /fensterzu schließt die Fenster deiner EorzeaCore-Plugins - ideal im Makro vor /beute, /grundstuecke oder /ziele\n\n/beute öffnet das Fenster · /beute tagebuch · /beute vorschau · /beute an · /beute aus · /fensterzu\nSprache: Deutsch oder Englisch (Einstellungen oder /beute englisch).",
     "Tags": [
       "loot",
       "beute",
@@ -151,10 +151,13 @@
       "gier",
       "dice",
       "dungeon",
-      "raid"
+      "raid",
+      "run diary",
+      "tagebuch",
+      "best time"
     ],
     "InternalName": "LootPass",
-    "AssemblyVersion": "1.3.6.0",
+    "AssemblyVersion": "1.3.7.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/icons/LootPass.png",
@@ -163,7 +166,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/LootPass.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/LootPass.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/LootPass.zip",
-    "LastUpdate": 1794509661,
+    "LastUpdate": 1794547218,
     "DownloadCount": 0
   },
   {
