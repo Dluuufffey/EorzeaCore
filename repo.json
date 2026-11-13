@@ -183,7 +183,7 @@
       "quests"
     ],
     "InternalName": "DailyGoals",
-    "AssemblyVersion": "1.7.6.0",
+    "AssemblyVersion": "1.7.7.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/icons/DailyGoals.png",
@@ -192,7 +192,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/DailyGoals.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/DailyGoals.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/DailyGoals.zip",
-    "LastUpdate": 1794529416,
+    "LastUpdate": 1794536635,
     "DownloadCount": 0
   }
 ]
