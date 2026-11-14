@@ -37,7 +37,7 @@ Updates kommen danach automatisch beim Einloggen (oder über „Aktualisieren“
 </tr>
 <tr>
 <td width="80" align="center"><img src="icons/LootPass.png" width="72" alt="EorzeaCore - Loot"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Loot</b>&nbsp;<code>1.3.7</code><br>Beute automatisch passen oder würfeln - mit 3D-Würfel</td>
-<td colspan="2"></td>
+<td width="80" align="center"><img src="icons/DmgMeter.png" width="72" alt="EorzeaCore - Dmg Meter"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Dmg&nbsp;Meter</b>&nbsp;<code>1.0.0</code><br>Schadensmesser wie in WoW - für die ganze Gruppe und den gesamten Inhalt</td>
 </tr>
 </table>
 
@@ -82,6 +82,6 @@ Updates then arrive automatically when you log in (or via “Update” in the pl
 </tr>
 <tr>
 <td width="80" align="center"><img src="icons/LootPass.png" width="72" alt="EorzeaCore - Loot"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Loot</b>&nbsp;<code>1.3.7</code><br>Pass or roll loot automatically - with a 3D die</td>
-<td colspan="2"></td>
+<td width="80" align="center"><img src="icons/DmgMeter.png" width="72" alt="EorzeaCore - Dmg Meter"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Dmg&nbsp;Meter</b>&nbsp;<code>1.0.0</code><br>Damage meter like in WoW - for your whole party and the entire duty</td>
 </tr>
 </table>

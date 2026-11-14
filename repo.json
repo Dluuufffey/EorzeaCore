@@ -197,5 +197,37 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/DailyGoals.zip",
     "LastUpdate": 1794536635,
     "DownloadCount": 0
+  },
+  {
+    "Author": "D. Luuuffy",
+    "Name": "EorzeaCore - Dmg Meter",
+    "Punchline": "Damage meter like in WoW: damage, healing, damage taken and deaths of your whole party - per fight and for the entire duty. / Schadensmesser wie in WoW: Schaden, Heilung, erlittener Schaden und Tode deiner ganzen Gruppe - pro Kampf und für den gesamten Inhalt.",
+    "Description": "Damage meter like in WoW - for your whole party and for the entire duty, not just per pack:\n• Damage, healing, damage taken and deaths of everyone in your party (also Duty Support and Trusts) - with DPS/HPS, share and rank\n• Whole duty or single fight: who did the most damage in the whole dungeon, and every fight on its own (bosses marked)\n• Click a player: abilities with hits, critical and direct hit rate, average and biggest hit, targets, DPS over time and death recap\n• Healing with overhealing, DoTs and HoTs, pets are added to their owner\n• Meter that blends into the game: no frame, the game's own font, buttons only when you hover - or as a classic window. Job colors and icons, your own bar highlighted, lock and click-through, transparency, bar height, an optional second meter (e.g. healing next to damage) and a preview to set it up\n• Overview of the whole duty with a top 3, a sortable table and every fight, history of your last duties, copy results to the clipboard, your DPS in the server info bar\n• Nothing is posted - only you see the numbers\n\n/dmg shows or hides the meter · /dmg preview · /dmg window · /dmg reset · /dmg history\nLanguage: English or German (settings or /dmg english).\n\nDeutsch:\nSchadensmesser wie in WoW - für deine ganze Gruppe und den gesamten Inhalt, nicht nur pro Gegnergruppe:\n• Schaden, Heilung, erlittener Schaden und Tode aller in deiner Gruppe (auch Unterstützertrupp und Vertraute) - mit DPS/HPS, Anteil und Platz\n• Gesamter Inhalt oder einzelner Kampf: wer im ganzen Dungeon den meisten Schaden gemacht hat, dazu jeder Kampf einzeln (Bosse markiert)\n• Klick auf einen Spieler: Fähigkeiten mit Treffern, Krit- und Direkttreffer-Rate, Durchschnitt und größtem Treffer, Ziele, DPS-Verlauf und Todes-Rückblick\n• Heilung mit Überheilung, DoTs und HoTs, Begleiter zählen zu ihrem Besitzer\n• Meter, das sich ins Spiel einfügt: ohne Rahmen, mit der Schrift des Spiels, Knöpfe erst beim Drüberfahren - oder klassisch als Fenster. Jobfarben und -symbole, dein Balken hervorgehoben, festsetzen und durchklickbar, Transparenz, Balkenhöhe, auf Wunsch ein zweites Meter (z. B. Heilung neben Schaden) und eine Vorschau zum Einrichten\n• Übersicht des ganzen Inhalts mit Top 3, sortierbarer Tabelle und jedem Kampf, Verlauf deiner letzten Inhalte, Ergebnis in die Zwischenablage kopieren, deine DPS in der Serverinfo-Leiste\n• Es wird nichts gepostet - nur du siehst die Zahlen\n\n/dmg zeigt oder versteckt das Meter · /dmg vorschau · /dmg fenster · /dmg reset · /dmg verlauf\nSprache: Deutsch oder Englisch (Einstellungen oder /dmg englisch).",
+    "Tags": [
+      "dps",
+      "damage meter",
+      "meter",
+      "dmg",
+      "healing",
+      "hps",
+      "schaden",
+      "heilung",
+      "statistik",
+      "party",
+      "dungeon",
+      "raid"
+    ],
+    "InternalName": "DmgMeter",
+    "AssemblyVersion": "1.0.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "IconUrl": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/icons/DmgMeter.png",
+    "RepoUrl": "https://github.com/Dluuufffey/EorzeaCore",
+    "AcceptsFeedback": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/DmgMeter.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/DmgMeter.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/DmgMeter.zip",
+    "LastUpdate": 1794617993,
+    "DownloadCount": 0
   }
 ]
