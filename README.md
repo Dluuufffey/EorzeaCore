@@ -40,7 +40,7 @@ Updates kommen danach automatisch beim Einloggen (oder über „Aktualisieren“
 <td width="80" align="center"><img src="icons/DmgMeter.png" width="72" alt="EorzeaCore - Dmg Meter"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Dmg&nbsp;Meter</b>&nbsp;<code>1.0.0</code><br>Schadensmesser wie in WoW - für die ganze Gruppe und den gesamten Inhalt</td>
 </tr>
 <tr>
-<td width="80" align="center"><img src="icons/HealthBars.png" width="72" alt="EorzeaCore - Health Bars"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Health&nbsp;Bars</b>&nbsp;<code>1.0.3</code><br>Lebensbalken über jedem Gegner in neuen Designs - mit Schadenszahlen</td>
+<td width="80" align="center"><img src="icons/HealthBars.png" width="72" alt="EorzeaCore - Health Bars"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Health&nbsp;Bars</b>&nbsp;<code>1.0.4</code><br>Lebensbalken über jedem Gegner in neuen Designs - mit Schadenszahlen</td>
 <td colspan="2"></td>
 </tr>
 </table>
@@ -89,7 +89,7 @@ Updates then arrive automatically when you log in (or via “Update” in the pl
 <td width="80" align="center"><img src="icons/DmgMeter.png" width="72" alt="EorzeaCore - Dmg Meter"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Dmg&nbsp;Meter</b>&nbsp;<code>1.0.0</code><br>Damage meter like in WoW - for your whole party and the entire duty</td>
 </tr>
 <tr>
-<td width="80" align="center"><img src="icons/HealthBars.png" width="72" alt="EorzeaCore - Health Bars"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Health&nbsp;Bars</b>&nbsp;<code>1.0.3</code><br>Health bars above every enemy in new designs - with damage numbers</td>
+<td width="80" align="center"><img src="icons/HealthBars.png" width="72" alt="EorzeaCore - Health Bars"></td><td><b>EorzeaCore&nbsp;-&#8288;&nbsp;Health&nbsp;Bars</b>&nbsp;<code>1.0.4</code><br>Health bars above every enemy in new designs - with damage numbers</td>
 <td colspan="2"></td>
 </tr>
 </table>
