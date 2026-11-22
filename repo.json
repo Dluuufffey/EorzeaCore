@@ -187,7 +187,7 @@
       "relic"
     ],
     "InternalName": "DailyGoals",
-    "AssemblyVersion": "1.8.9.0",
+    "AssemblyVersion": "1.8.10.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/icons/DailyGoals.png",
@@ -196,7 +196,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/DailyGoals.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/DailyGoals.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/plugins/DailyGoals.zip",
-    "LastUpdate": 1795367335,
+    "LastUpdate": 1795368801,
     "DownloadCount": 0
   },
   {
